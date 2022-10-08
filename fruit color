@@ -3,3 +3,8 @@ colour(banana, yellow).
 colour(apple, red).
 colour(apple, green).
 colour(orange, orange).
+fruit(red,cherry).
+fruit(yellow,banana).
+fruit(green,apple).
+fruit(orange,orange).
+fruit(black,grape).
